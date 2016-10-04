@@ -1,0 +1,14 @@
+C:\Users\martinho.sebastiao\Documents\Visual Studio 2015\Projects\SONIP\SONIP.Infraestrutura\bin\Debug\SONIP.Infraestrutura.dll.config
+C:\Users\martinho.sebastiao\Documents\Visual Studio 2015\Projects\SONIP\SONIP.Infraestrutura\bin\Debug\SONIP.Infraestrutura.dll
+C:\Users\martinho.sebastiao\Documents\Visual Studio 2015\Projects\SONIP\SONIP.Infraestrutura\bin\Debug\SONIP.Infraestrutura.pdb
+C:\Users\martinho.sebastiao\Documents\Visual Studio 2015\Projects\SONIP\SONIP.Infraestrutura\bin\Debug\EntityFramework.dll
+C:\Users\martinho.sebastiao\Documents\Visual Studio 2015\Projects\SONIP\SONIP.Infraestrutura\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\martinho.sebastiao\Documents\Visual Studio 2015\Projects\SONIP\SONIP.Infraestrutura\bin\Debug\SONIP.Dominio.dll
+C:\Users\martinho.sebastiao\Documents\Visual Studio 2015\Projects\SONIP\SONIP.Infraestrutura\bin\Debug\SONIP.Common.dll
+C:\Users\martinho.sebastiao\Documents\Visual Studio 2015\Projects\SONIP\SONIP.Infraestrutura\bin\Debug\SONIP.Dominio.pdb
+C:\Users\martinho.sebastiao\Documents\Visual Studio 2015\Projects\SONIP\SONIP.Infraestrutura\bin\Debug\EntityFramework.xml
+C:\Users\martinho.sebastiao\Documents\Visual Studio 2015\Projects\SONIP\SONIP.Infraestrutura\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\martinho.sebastiao\Documents\Visual Studio 2015\Projects\SONIP\SONIP.Infraestrutura\bin\Debug\SONIP.Common.pdb
+C:\Users\martinho.sebastiao\Documents\Visual Studio 2015\Projects\SONIP\SONIP.Infraestrutura\obj\Debug\SONIP.Infraestrutura.csprojResolveAssemblyReference.cache
+C:\Users\martinho.sebastiao\Documents\Visual Studio 2015\Projects\SONIP\SONIP.Infraestrutura\obj\Debug\SONIP.Infraestrutura.dll
+C:\Users\martinho.sebastiao\Documents\Visual Studio 2015\Projects\SONIP\SONIP.Infraestrutura\obj\Debug\SONIP.Infraestrutura.pdb

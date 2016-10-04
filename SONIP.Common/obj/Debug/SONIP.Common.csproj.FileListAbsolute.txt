@@ -1,0 +1,8 @@
+C:\Users\martinho.sebastiao\Documents\Visual Studio 2015\Projects\SONIP\SONIP.Common\bin\Debug\SONIP.Common.dll
+C:\Users\martinho.sebastiao\Documents\Visual Studio 2015\Projects\SONIP\SONIP.Common\bin\Debug\SONIP.Common.pdb
+C:\Users\martinho.sebastiao\Documents\Visual Studio 2015\Projects\SONIP\SONIP.Common\obj\Debug\SONIP.Common.Resource.Erros.Base.resources
+C:\Users\martinho.sebastiao\Documents\Visual Studio 2015\Projects\SONIP\SONIP.Common\obj\Debug\SONIP.Common.Resource.Funcoes.Functions.resources
+C:\Users\martinho.sebastiao\Documents\Visual Studio 2015\Projects\SONIP\SONIP.Common\obj\Debug\SONIP.Common.csproj.GenerateResource.Cache
+C:\Users\martinho.sebastiao\Documents\Visual Studio 2015\Projects\SONIP\SONIP.Common\obj\Debug\SONIP.Common.dll
+C:\Users\martinho.sebastiao\Documents\Visual Studio 2015\Projects\SONIP\SONIP.Common\obj\Debug\SONIP.Common.pdb
+C:\Users\martinho.sebastiao\Documents\Visual Studio 2015\Projects\SONIP\SONIP.Common\obj\Debug\SONIP.Common.csprojResolveAssemblyReference.cache

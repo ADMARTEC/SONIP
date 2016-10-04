@@ -1,0 +1,7 @@
+C:\Users\martinho.sebastiao\Documents\Visual Studio 2015\Projects\SONIP\SONIP.Dominio\bin\Debug\SONIP.Dominio.dll
+C:\Users\martinho.sebastiao\Documents\Visual Studio 2015\Projects\SONIP\SONIP.Dominio\bin\Debug\SONIP.Dominio.pdb
+C:\Users\martinho.sebastiao\Documents\Visual Studio 2015\Projects\SONIP\SONIP.Dominio\bin\Debug\SONIP.Common.dll
+C:\Users\martinho.sebastiao\Documents\Visual Studio 2015\Projects\SONIP\SONIP.Dominio\bin\Debug\SONIP.Common.pdb
+C:\Users\martinho.sebastiao\Documents\Visual Studio 2015\Projects\SONIP\SONIP.Dominio\obj\Debug\SONIP.Dominio.csprojResolveAssemblyReference.cache
+C:\Users\martinho.sebastiao\Documents\Visual Studio 2015\Projects\SONIP\SONIP.Dominio\obj\Debug\SONIP.Dominio.dll
+C:\Users\martinho.sebastiao\Documents\Visual Studio 2015\Projects\SONIP\SONIP.Dominio\obj\Debug\SONIP.Dominio.pdb
